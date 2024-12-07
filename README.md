@@ -1,9 +1,15 @@
 Hi, I’m @parashar88
+
 👀 I’m interested in data analysis, machine learning, automation, and cloud technologies.
+
 🌱 I’m currently learning Python, MySQL, Excel, Power BI, and Machine LearningSQL & MongoDB
+
 💞️ I’m looking to collaborate on data-driven projects, AI solutions, and business intelligence tools.
+
 📫 How to reach me: parashar88@github.com or LinkedIn: https://www.linkedin.com/in/rishabh-parashar-112a89137/.
+
 😄 Pronouns: He/Him
+
 ⚡ Fun fact: I love solving complex problems using data and exploring new technologies in the process!
 
 
